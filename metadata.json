@@ -1,0 +1,6 @@
+{
+  "name": "Eye 24 - Global Automated News Portal",
+  "description": "Eye 24 is an automated global news portal delivering viral breaking news translated to Bangla with multi-channel publishing and affiliate monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
